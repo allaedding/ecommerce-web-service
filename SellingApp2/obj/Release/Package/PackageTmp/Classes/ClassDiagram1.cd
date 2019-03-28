@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SellingApp2.DBConnection">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Classes\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.Users">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Classes\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.ImageResult">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAA=</HashCode>
+      <FileName>Classes\ImageResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.StringGeneration">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\StringGeneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.Tools">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.ToolType">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ToolType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.ToolListing">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAEAAAgAAAAAAAAgAAAAAAAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>Classes\ToolListing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellingApp2.ToolListingDescription">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAAAQQAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Classes\ToolListingDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
